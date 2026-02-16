@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="psr12-stroustrup-and-space">
-  <description>PSR 12 with Stroustrup Brackets and Spaces in Parentheses</description>
+<ruleset name="psr12-stroustrup">
+  <description>PSR 12 with Stroustrup Brackets and Spaces in Parentheses, but no space after Not</description>
 
   <rule ref="PSR12">
 
@@ -39,8 +39,8 @@
     </properties>
   </rule>
   <!-- Spaces in Parentheses: Require space after negation ! in control structures -->
-  <rule ref="Generic.Formatting.SpaceAfterNot">
-  </rule>
+  <!--<rule ref="Generic.Formatting.SpaceAfterNot">
+  </rule> -->
 
   <!-- Space around functions: Require 1 blank line before and after function blocks -->
   <rule ref="Squiz.WhiteSpace.FunctionSpacing">
