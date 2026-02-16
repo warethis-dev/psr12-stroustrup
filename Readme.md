@@ -1,4 +1,4 @@
-# PSR 12 with Stroustrup + Spaces coding style
+# PSR 12 with Stroustrup + Spaces coding style - this is a fork and does not enforce space after !
 
 This ruleset for PHPCS and PHPCBF adheres to PSR 12 with three changes:
 
@@ -8,7 +8,7 @@ This ruleset for PHPCS and PHPCBF adheres to PSR 12 with three changes:
 
 2. Spaces in Parentheses
     - One space before and after statement inside parentheses in control structures
-    - One space after ! in control structures
+    XX One space after ! in control structures XX
 
 3. Space around functions
     - One blank line before and after functions
