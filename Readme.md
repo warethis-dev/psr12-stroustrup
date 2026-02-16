@@ -48,7 +48,7 @@ class Foo {
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:nicolajknudsen/psr12-stroustrup-and-space"
+            "url": "git@github.com:warethis-dev/psr12-stroustrup"
         }
     ]
 }
