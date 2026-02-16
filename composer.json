@@ -1,10 +1,10 @@
 {
-    "name": "nicolajknudsen/psr12-stroustrup-and-space",
+    "name": "warethis-dev/psr12-stroustrup",
     "description": "Custom coding style",
     "type": "phpcodesniffer-standard",
     "authors": [
         {
-            "name": "Nicolaj Knudsen"
+            "name": "Warethis Development"
         }
     ],
     "require": {
