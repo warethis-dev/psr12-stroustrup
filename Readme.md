@@ -48,7 +48,7 @@ class Foo {
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:warethis-dev/psr12-stroustrup"
+            "url": "https://github.com/warethis-dev/psr12-stroustrup"
         }
     ]
 }
